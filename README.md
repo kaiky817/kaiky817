@@ -1,11 +1,13 @@
-## boas vindas ao meu perfil 🐉
+## Boas vindas ao meu perfil 🐉
 
-meu nome: kaiky
+Meu nome: kaiky
 
-estou estudando no alura
-estou me desenvolvendo na linguagem javaScript
-utilizo este espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo este espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 
 ### para entrar em contato comigo
 
 kaizinsousasantos@gmail.com
+
+![](https://media.tenor.com/s6-RmA3LvrMAAAAM/playing-drums-stu.gif)
